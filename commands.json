@@ -1,0 +1,30 @@
+{
+  "cancel_sub": {
+    "title": "Tebex: Cancel Subscription",
+    "message": "**Head over to https://checkout.tebex.io/payment-history and in ‘payment history’ you can cancel any subscription.**"
+  },
+  "upgrade_prio": {
+    "title": "Tebex: Upgrade Prio",
+    "message": "**Our recommendation is to wait out till the end of your current prio (cancel it now so you don't pay it again) and then upgrade to the better prio once it has run out.**\n\n**Or if you don't want to have to wait in the queue you can upgrade now but we will not do a refund on the difference.**\n\n**Head over to https://checkout.tebex.io/payment-history and in ‘payment history’ you can cancel any subscription.**"
+  },
+  "ui_fix": {
+    "title": "Server: UI Fix",
+    "message": "**Try this simple fix to resolve any issues with UI!** https://cdn.discordapp.com/attachments/1255918671541309541/1270870204871741561/fixui.png"
+  },
+  "missing_character": {
+    "title": "Server: Missing Characters",
+    "message": "* **Connect to the server and get in the queue. Once you are in the queue/loading in F8 quit.**\n* **Head to your [Time2 Dashboard](https://time2rp.com/dashboard/profile)**\n* **Once you are on your dashboard, press the green button in the top right to sync characters.**\n\n*If you still have problems after doing this a Developer will help you with your problem.*"
+  },
+  "peds": {
+    "title": "Server: Peds",
+    "message": "**Check if a ped you want is available on the [Time2 Dashboard](https://time2rp.com/dashboard/peds/main)**"
+  },
+  "streaming_role": {
+    "title": "Discord: Streaming Role",
+    "message": "* **Your [Twitch account must be linked to your Discord](https://support.discord.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ#h_01GBQS0GVMV8ERXGH2QK1VXA4D) account.**\n* **Ensure that [Streamer mode](https://support.discord.com/hc/en-us/articles/218485407-Streamer-Mode-101#h_01GCCF78TYB2MF6JZA5YFNSY6Y) is enabled on Discord.**\n* **Make sure you are appearing online on Discord**\n* **Lastly, you must have \"__Time2RP__\" in your stream title!**"
+  },
+  "peds_required": {
+    "title": "Peds: Required Ped Creators",
+    "message": "* **We have strict guidelines and requirements for peds, you must use either one of our in-house ped developers:**\n\ndiscord.gg/ronspeds\ndiscord.gg/hitmandev"
+  }
+}
