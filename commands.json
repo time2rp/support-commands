@@ -11,13 +11,9 @@
     "title": "Server: UI Fix",
     "message": "**Try this simple fix to resolve any issues with UI!** https://cdn.discordapp.com/attachments/1255918671541309541/1270870204871741561/fixui.png"
   },
-  "missing_character": {
-    "title": "Server: Missing Characters",
-    "message": "* **Connect to the server and get in the queue. Once you are in the queue/loading in F8 quit.**\n* **Head to your [Time2 Dashboard](https://time2rp.com/dashboard/profile)**\n* **Once you are on your dashboard, press the green button in the top right to sync characters.**\n\n*If you still have problems after doing this a Developer will help you with your problem.*"
-  },
   "peds": {
-    "title": "Server: Peds",
-    "message": "**Check if a ped you want is available on the [Time2 Dashboard](https://time2rp.com/dashboard/peds/main)**"
+    "title": "Server: Ped Info",
+    "message": "* **Check if a ped you want is available on the [Time2 Dashboard](https://time2rp.com/dashboard/peds/main)**\n* **New PEDs set must be on a NEW character.**\n* **Please place the PED you've chosen in a ticket, to check with staff its avaiable.**\n* **Head over to [Time2 Store] (https://store.time2rp.com/category/clothing) to purchase 'Ped Ownership'**\n* ** Staff will lock your PED to your account, and it now can be set in server**"
   },
   "streaming_role": {
     "title": "Discord: Streaming Role",
@@ -26,5 +22,13 @@
   "peds_required": {
     "title": "Peds: Required Ped Creators",
     "message": "* **We have strict guidelines and requirements for peds, you must use either one of our in-house ped developers:**\n\ndiscord.gg/ronspeds\ndiscord.gg/hitmandev"
-  }
+  },
+   "bug_reports": {
+    "title": "Server: Bug Reports",
+    "message": "* **Please add any bugs in: https://discord.com/channels/1255909778677563434/1261785690765656144**"
+   },
+  "web_queue": {
+    "title": "Server: Web Queue",
+    "message": "**To join our queue, head to: [Web Queue] (https://time2rp.com/dashboard)**"
+   }
 }
