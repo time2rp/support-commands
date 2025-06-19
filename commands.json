@@ -30,5 +30,9 @@
   "web_queue": {
     "title": "Server: Web Queue",
     "message": "**To join our queue, head to: [Web Queue] (https://time2rp.com/dashboard)**"
-   }
+   },
+  "cfx_issues": {
+    "title": "Server: CFX Issues",
+    "message": "**Any issues with CFX head here for help: [CFX Support] (https://discord.gg/fivem)**"
+  
 }
